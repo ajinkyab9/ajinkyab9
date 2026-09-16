@@ -1,5 +1,8 @@
 # 💫 About Me:
-🔭 I’m currently working on SicherScan: An air gapped, hybrid SAST tool which runs on-prem, with and on the user's hardware. Includes a data analytics panel for the user to reflect on their development behaviour, areas of improvement including future forecast indicating most probable vulnerabilities which might appear.<br>🌱 I’m currently learning micro services and system design<br>💬 Ask me about SicherScan!<br>⚡ High on caffeine and code
+🔭 I’m currently working on SicherScan: An air gapped, hybrid SAST tool which runs on-prem, with and on the user's hardware. Includes a data analytics panel for the user to reflect on their development behaviour, areas of improvement including future forecast indicating most probable vulnerabilities which might appear.It's currently a private repo as I'm developing a v2 after facing the limitations and challenges of SicherScan v1.5<br>
+🌱 I’m currently learning micro services and system design<br>
+💬 Ask me about SicherScan!<br>
+⚡ High on caffeine and code
 
 
 ## 🌐 Socials:
