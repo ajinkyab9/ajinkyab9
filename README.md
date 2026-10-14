@@ -16,7 +16,7 @@
 
 ## Featured Project
 
-<a href="https://github.com/ajinkyab9/SicherScan_public" target="_blank">
+<a href="https://github.com/ajinkyab9/SicherScan_public">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=ajinkyab9&repo=SicherScan_public&theme=dark&hide_border=true" alt="SicherScan Showcase" />
 </a>
 
