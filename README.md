@@ -17,10 +17,10 @@
 ## Featured Project
 
 <a href="https://github.com/ajinkyab9/SicherScan_public">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=ajinkyab9&repo=SicherScan&theme=dark&hide_border=true" alt="SicherScan Showcase" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=ajinkyab9&repo=SicherScan_public&theme=dark&hide_border=true" alt="SicherScan Showcase" />
 </a>
 
-<br/>
+</br>
 
 > **SicherScan (Showcase)**: An air gapped, on premise hybrid SAST engine with predictive risk forecasting and behavioral developer analytics. Built for privacy first security auditing without cloud telemetry.
 
